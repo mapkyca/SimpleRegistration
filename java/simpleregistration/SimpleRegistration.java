@@ -54,9 +54,7 @@ public class SimpleRegistration {
 	int h = 0;
 	int len = input.length();
 	for (int i = 0; i < len; i++) {
-	    //h = 31 * h + input.charAt(i);
 	    h = h + input.charAt(i);
-	    System.err.println(h);
 	}
 	return h;
     }
