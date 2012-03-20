@@ -1,4 +1,4 @@
-Simple Registration - A simple product registration code
+Simple Registration - A simple product registration code library.
 by Marcus Povey <marcus@marcus-povey.co.uk>
 ================================================================================
 
