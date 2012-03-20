@@ -1,0 +1,2 @@
+The SimpleRegistration is: (C) Copyright Marcus Povey 2012
+and is released under the MIT Licence (see LICENCE.txt)
